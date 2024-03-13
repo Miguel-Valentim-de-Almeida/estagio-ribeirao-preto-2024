@@ -1,0 +1,19 @@
+Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+R: O valor da variável SOMA será de 91, pois, serão somados todos os números de 0 a 13. Apesar de a condição de parada do loop ser k menor do que indice, o 13 entrará na soma pois a verificação do loop vem depois da lógica ser realizada. Ou seja, k entrará na lógica do loop valendo 12, virará 13, e somará com a variável SOMA.

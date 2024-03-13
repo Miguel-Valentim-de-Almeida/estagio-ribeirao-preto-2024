@@ -1,0 +1,13 @@
+Descubra a lógica e complete o próximo elemento:
+
+a) Soma de 2 em 2: 1, 3, 5, 7, 9
+
+b) Sequência de 2 elevado a 1, 2, 3 e assim por diante: 2, 4, 8, 16, 32, 64, 128
+
+c) Sequência de n * n (com n começando em 0 e recebendo acréscimos de 1): 0, 1, 4, 9, 16, 25, 36, 49
+
+d) Sequência de 2, 4, 6, 8 e 10 elevados ao quadrado: 4, 16, 36, 64, 100
+
+e) Sequência de Fibonacci: 1, 1, 2, 3, 5, 8, 13
+
+f) Sequência de números que começam com a letra D em português: 2, 10, 12, 16, 17, 18, 19, 200
